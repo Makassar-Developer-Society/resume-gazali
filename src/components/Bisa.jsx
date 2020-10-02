@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
     /* borderRadius: 20, */
     padding: theme.spacing(5),
     textAlign: 'center',
-    backgroundColor: '#EFC254',
+    backgroundColor: '#50539F',
     color: '#fff',
     height: '350px',
   },
@@ -33,7 +33,7 @@ const useStyles = makeStyles((theme) => ({
   },
   spacing: {
     paddingBottom: theme.spacing(5),
-    paddingTop: 30
+    paddingTop: 100
   },
 }));
 
@@ -43,7 +43,7 @@ export default function CenteredGrid() {
   return (
     <div className={classes.root}>
       <Grid item xs>
-                    <Typography variant="h3" align="left" color="textPrimary" className={classes.spacing}>
+                    <Typography variant="h4" align="left" color="textPrimary" className={classes.spacing}>
                         <b>What can i do?</b>
                     </Typography>
       </Grid>

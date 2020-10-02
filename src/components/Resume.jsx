@@ -6,7 +6,7 @@ import ResumeCard from './Card/Resume';
 
 const useStyles = makeStyles((theme) => ({
     containerSpacing: {
-        paddingTop: theme.spacing(5),
+        paddingTop: theme.spacing(15),
         paddingBottom: theme.spacing(6),
     },
     spacing: {

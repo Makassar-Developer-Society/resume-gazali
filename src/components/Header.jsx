@@ -4,6 +4,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import Avatar from '@material-ui/core/Avatar';
 import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
+import Sosmed from '../components/Sosmed';
 import Limitations from '../components/Limitations';
 
 const background = require("../assets/img/mainheader.png");
@@ -21,10 +22,11 @@ const useStyles = makeStyles((theme) => ({
     title: {
         fontWeight: 'bold',
         paddingBottom: theme.spacing(2),
-        color: '#EFC254'
+        color: '#50539F'
     },
     description: {
-        lineHeight: 2.3
+        lineHeight: 2.3,
+        paddingBottom: 30
     },
     large: {
         width: theme.spacing(20),
@@ -58,6 +60,7 @@ export default function Header() {
                             I'm a <b>BEGINNER WEB DEVELOPER</b> and <b>NETWORK ENGINEER</b> from <b>MAKASSAR</b>, Indonesia.
                             I love to meet new people, experiencing new things from them and building my <b>SOCIAL NETWORK</b>.
                         </Typography>
+                        <Sosmed/>
                     </Grid>
                     <Grid item xs={12} md={5}>
                         <img src={require("../assets/img/me.png")} />
