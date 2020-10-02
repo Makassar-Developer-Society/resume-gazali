@@ -54,7 +54,7 @@ export default function Header() {
                     
                     <Grid item xs={12} md={7}>
                         <Typography variant="h3" align="left" className={classes.title} gutterBottom>
-                            Hi, I'm Muh. Gazali Saleh
+                            Hi, I'm Muh. Gazali
                         </Typography>
                         <Typography variant="h6" align="left" className={classes.description}>
                             I'm a <b>BEGINNER WEB DEVELOPER</b> and <b>NETWORK ENGINEER</b> from <b>MAKASSAR</b>, Indonesia.
