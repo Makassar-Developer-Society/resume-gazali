@@ -1,11 +1,11 @@
 import React from 'react';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
-import Avatar from '@material-ui/core/Avatar';
+//import Avatar from '@material-ui/core/Avatar';
 import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
 import Sosmed from '../components/Sosmed';
-import Limitations from '../components/Limitations';
+//import Limitations from '../components/Limitations';
 
 const background = require("../assets/img/mainheader.png");
 const useStyles = makeStyles((theme) => ({
@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
         background: `url(${background})`,
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'auto',
-        height: '500px',
+        maxHeight: '500px',
         position: 'relative',
         overflow: 'hidden'
     },
@@ -54,7 +54,7 @@ export default function Header() {
                     
                     <Grid item xs={12} md={7}>
                         <Typography variant="h3" align="left" className={classes.title} gutterBottom>
-                            Hi, My Future Wife
+                            Hi, My Future Company
                         </Typography>
                         <Typography variant="h6" align="left" className={classes.description}>
                             I'm a <b>BEGINNER WEB DEVELOPER</b> and <b>NETWORK ENGINEER</b> from <b>MAKASSAR</b>, Indonesia.
@@ -63,7 +63,7 @@ export default function Header() {
                         <Sosmed/>
                     </Grid>
                     <Grid item xs={12} md={5}>
-                        <img src={require("../assets/img/me.png")} />
+                        <img alt="Skills" src={require("../assets/img/me.png")} />
                        {/*  <img className={classes.large} alt="complex" src="../assets/img/bgheader.png" /> */}
                     </Grid>
                 </Grid>
