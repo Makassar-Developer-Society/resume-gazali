@@ -23,7 +23,7 @@ const useStyles = makeStyles({
     },
     availableButton: {
         fontWeight: 'bold',
-        backgroundColor: '#000',
+        backgroundColor: '#50539F',
         color: '#fff',
         textDecoration: 'none'
     },
