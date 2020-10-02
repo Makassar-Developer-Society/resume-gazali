@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/resume-gazali/static/css/main.a1832468.chunk.css",
-    "main.js": "/resume-gazali/static/js/main.70843905.chunk.js",
-    "main.js.map": "/resume-gazali/static/js/main.70843905.chunk.js.map",
+    "main.js": "/resume-gazali/static/js/main.29a2e5cf.chunk.js",
+    "main.js.map": "/resume-gazali/static/js/main.29a2e5cf.chunk.js.map",
     "runtime-main.js": "/resume-gazali/static/js/runtime-main.e0a3e4d6.js",
     "runtime-main.js.map": "/resume-gazali/static/js/runtime-main.e0a3e4d6.js.map",
     "static/js/2.43a669d2.chunk.js": "/resume-gazali/static/js/2.43a669d2.chunk.js",
     "static/js/2.43a669d2.chunk.js.map": "/resume-gazali/static/js/2.43a669d2.chunk.js.map",
     "index.html": "/resume-gazali/index.html",
-    "precache-manifest.c2c72f422cdb51be4bf3862d2b6f6b29.js": "/resume-gazali/precache-manifest.c2c72f422cdb51be4bf3862d2b6f6b29.js",
+    "precache-manifest.515e02d41b6b76308d67ec02e0ae18aa.js": "/resume-gazali/precache-manifest.515e02d41b6b76308d67ec02e0ae18aa.js",
     "service-worker.js": "/resume-gazali/service-worker.js",
     "static/css/main.a1832468.chunk.css.map": "/resume-gazali/static/css/main.a1832468.chunk.css.map",
     "static/js/2.43a669d2.chunk.js.LICENSE.txt": "/resume-gazali/static/js/2.43a669d2.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.e0a3e4d6.js",
     "static/js/2.43a669d2.chunk.js",
     "static/css/main.a1832468.chunk.css",
-    "static/js/main.70843905.chunk.js"
+    "static/js/main.29a2e5cf.chunk.js"
   ]
 }

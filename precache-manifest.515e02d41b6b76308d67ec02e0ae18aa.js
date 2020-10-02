@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b9c176093fd3abeba0f2ca51be1a7ba",
+    "revision": "cf3be3e1b5ee9f8ce8423c24182fade7",
     "url": "/resume-gazali/index.html"
   },
   {
-    "revision": "b5ba1fb4290a131f4a58",
+    "revision": "bf97c36f922027362a14",
     "url": "/resume-gazali/static/css/main.a1832468.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume-gazali/static/js/2.43a669d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5ba1fb4290a131f4a58",
-    "url": "/resume-gazali/static/js/main.70843905.chunk.js"
+    "revision": "bf97c36f922027362a14",
+    "url": "/resume-gazali/static/js/main.29a2e5cf.chunk.js"
   },
   {
     "revision": "b9f6b6ab08d29b4fa56a",
